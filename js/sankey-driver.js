@@ -10,7 +10,7 @@ var SankeyDriver = function (){
   var color = d3.scale.category20c();
   var graph, width, height;
   var tooltips = [];
-  var tooltipEnable = true;
+  var tooltipEnable = false;
   var tooltipContainer, tbody;
 
   this.prepare = function (canvas, sz, margin) {
