@@ -2,6 +2,8 @@
 
 ------------------------
 
+![dataviz](asset/r9n7-highlight.png)
+
 This diagram is a proof-of-concept to demonstrate how inefficient horizontal exotic horse racing wagers may be identified visually. The thickness of ribbons (links) represents the number of combinations that include the particular selection. 
 
 - Move the mouse over nodes or links. The specific portion will be highlighted from end to end.
